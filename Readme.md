@@ -9,6 +9,7 @@
 </p>
 
 <br>
+
 ## :scroll: Event Snippet
 
 In this training series, we will be learning Git. It is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
@@ -24,15 +25,16 @@ Apart from these learnings, we will also be hearing from Mr. Jakaria Rabbi who i
 - Insights on "Github Campus Advisor"
 
 <br>
+
 ## :movie_camera: Event Recording
 
  [Check On Youtube](#)  
  (Link will be available very soon)
 
 ## :star: Credits
-Organizer : Mohammad Iftekher Ebne Jalal (Iftu) <br>
-Speaker : Anjum Rashid Bijoy <br>
-Guest Speaker : Jakaria Rabbi <br>
-Partnering Organization : IEEE CUET Student Branch 
+Organizer : [Mohammad Iftekher Ebne Jalal (Iftu)](https://github.com/Iftu119) <br>
+Speaker : [Anjum Rashid Bijoy](https://github.com/bijoy26) <br>
+Guest Speaker : [Jakaria Rabbi](https://github.com/Jakaria08) <br>
+Partnering Organization : [IEEE CUET Student Branch](http://www.ieeecuetsb.org/)
 
-### Thank You
+----
