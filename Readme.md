@@ -1,0 +1,38 @@
+# Git with Grit
+### A Virtual Training Series on the Fundamentals of Git and Github
+<br>
+
+[![first-timers-only](https://img.shields.io/badge/first--timers-friendly-blue?style=for-the-badge&logo=appveyor)](https://www.firsttimersonly.com/)
+
+<p align="center">
+  <img src="Assets/Banner.png">
+</p>
+
+<br>
+## :scroll: Event Snippet
+
+In this training series, we will be learning Git. It is a free and open-source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
+We will be also exploring Github which is a code hosting platform for version control and collaboration. It lets you and others work together on the same projects from anywhere so that we can collaborate with others from a remote repository. 
+Apart from these learnings, we will also be hearing from Mr. Jakaria Rabbi who is currently a Github Campus Advisor at Khulna University of Engineering and Technology (KUET). He will be sharing us various ideas regarding "Github Campus Advisor" and "Github Campus Expert" Program.
+
+**This Training Series is covering following topics :**
+- Command Line and Git Environment
+- Git Basic Commands
+- Git Branching
+- Working on Remote Repository
+- Exclusive talk on "Github Campus Expert"
+- Insights on "Github Campus Advisor"
+
+<br>
+## :movie_camera: Event Recording
+
+ [Check On Youtube](#)  
+ (Link will be available very soon)
+
+## :star: Credits
+Organizer : Mohammad Iftekher Ebne Jalal (Iftu) <br>
+Speaker : Anjum Rashid Bijoy <br>
+Guest Speaker : Jakaria Rabbi <br>
+Partnering Organization : IEEE CUET Student Branch 
+
+### Thank You
