@@ -28,7 +28,7 @@ Apart from these learnings, we will also be hearing from **Mr. Jakaria Rabbi** w
 
 ## :movie_camera: Event Recording
 
-Full Playlist Available on [Youtube](https://www.youtube.com/playlist?list=PLIQ7u2lvft7xVH7RyND4AZx776aHcbn65)  
+[Full Playlist](https://www.youtube.com/playlist?list=PLIQ7u2lvft7xVH7RyND4AZx776aHcbn65) Available on **YouTube**
 
 ## :star: Credits
 Organizer : [Mohammad Iftekher Ebne Jalal (Iftu)](https://github.com/Iftu119) (Ambassador) <br>
